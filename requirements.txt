@@ -4,7 +4,3 @@ PyYAML>=6.0
 tqdm>=4.66.0
 Pillow>=10.0.0
 debugpy>=1.8.0
-# torch и torchvision устанавливаются как зависимости ultralytics
-# (в Linux используются сборки с поддержкой CUDA)
-# Для live-окна (--show) нужен opencv-python (не headless).
-# Запускайте --show из системного терминала (Konsole), не из VS Code.

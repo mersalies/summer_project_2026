@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+raw/
+datasets/
+runs/
+weights/*.pt
+demos/**
+!demos/.gitkeep
+*.zip
+yolov8n.pt
+yolo26n.pt
+
+.idea/
+.DS_Store
+Thumbs.db

@@ -5,8 +5,6 @@ __pycache__/
 raw/
 datasets/
 runs/
-weights/*.pt
-demos/**
 !demos/.gitkeep
 *.zip
 yolov8n.pt

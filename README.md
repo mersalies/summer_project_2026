@@ -544,7 +544,4 @@ python scripts/demo_track.py --source 0 --preprocess whitehot --show --no-save
 # своё FLIR-видео из кадров
 python scripts/build_flir_video.py --video-id ZAtDSNuZZjkZFvMAo --out demos/clip.mp4
 ```
-
----
-
 *Документ соответствует упрощённой структуре проекта после очистки неиспользуемых папок и скриптов.*
